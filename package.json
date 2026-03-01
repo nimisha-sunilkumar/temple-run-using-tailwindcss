@@ -2,7 +2,7 @@
   "name": "reactapp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://your-username.github.io/reactapp",
+  "homepage": "https://nimisha-sunilkumar.github.io/temple-run-using-tailwindcss",
   "type": "module",
   "scripts": {
     "dev": "vite",
